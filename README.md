@@ -14,3 +14,5 @@
 - [Documentação do docker](https://docs.docker.com/engine/docker-overview/)
 - [Play With Docker](https://labs.play-with-docker.com/)
 - [Dockerhub](http://dockerhub.com/)
+- [Linux Containers](https://linuxcontainers.org/)
+- [RedHat Openshift](https://www.openshift.com/)
