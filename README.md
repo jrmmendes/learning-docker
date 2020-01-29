@@ -1,7 +1,7 @@
 <p align=center>
   <img width="500" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" alt="docker-logo">
 </p>
-<p align="center">Repositório de apoio para curso sobre docker</p>
+<p align="center">O Docker é uma plataforma. Possibilita comprimir e executar aplicações isoladas com segurança em contêineres, com todas as respectivas  dependências e bibliotecas. Neste repositório, você encontra materiais de apoio e exemplos (wip) da minha pílula.</p>
 <p align=center>
   <img src="https://img.shields.io/badge/revisão-2-green">
   <img src="https://img.shields.io/badge/exemplos-WIP-green">
